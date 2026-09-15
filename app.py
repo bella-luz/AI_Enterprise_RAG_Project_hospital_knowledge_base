@@ -89,7 +89,7 @@ class LiteRAGAssistant:
                     st.error("Google Generative AI not installed")
                     return False
                 genai.configure(api_key=api_key)
-                self.client = genai.GenerativeModel("gemini-2.5-flash")
+                self.client = genai.GenerativeModel("gemini-3.6-flash")
                 self.llm_provider = "gemini"
                 return True
         except Exception as e:
