@@ -1,0 +1,100 @@
+[
+  {
+    "id": 0,
+    "chunk": "HOSPITAL ADMISSION POLICY\nEffective Date: January 1, 2024\n1. PURPOSE\nThis policy establishes guideli...",
+    "source": "admission_policy.pdf",
+    "category": "admin_policies",
+    "chunk_index": 0
+  },
+  {
+    "id": 1,
+    "chunk": "Step 5: Patient orientation to hospital policies and procedures\n4. DOCUMENTATION REQUIREMENTS\nAll ad...",
+    "source": "admission_policy.pdf",
+    "category": "admin_policies",
+    "chunk_index": 1
+  },
+  {
+    "id": 2,
+    "chunk": "PATIENT DISCHARGE POLICY\nEffective Date: January 1, 2024\n1. PURPOSE\nThis policy outlines the dischar...",
+    "source": "discharge_policy.pdf",
+    "category": "admin_policies",
+    "chunk_index": 0
+  },
+  {
+    "id": 3,
+    "chunk": "INFECTION CONTROL AND PREVENTION GUIDELINES\nEffective Date: January 1, 2024\n1. HAND HYGIENE\nHand hyg...",
+    "source": "infection_control.pdf",
+    "category": "clinical_guidelines",
+    "chunk_index": 0
+  },
+  {
+    "id": 4,
+    "chunk": "Airborne Precautions: For tuberculosis, measles, varicella\nContact Precautions: For MRSA, C. diffici...",
+    "source": "infection_control.pdf",
+    "category": "clinical_guidelines",
+    "chunk_index": 1
+  },
+  {
+    "id": 5,
+    "chunk": "MEDICATION ADMINISTRATION STANDARDS\nEffective Date: January 1, 2024\n1. THE FIVE RIGHTS OF MEDICATION...",
+    "source": "medication_administration.pdf",
+    "category": "clinical_guidelines",
+    "chunk_index": 0
+  },
+  {
+    "id": 6,
+    "chunk": "CODE PROCEDURES AND EMERGENCY RESPONSE\nEffective Date: January 1, 2024\n1. CODE BLUE (CARDIAC ARREST)...",
+    "source": "code_procedures.pdf",
+    "category": "emergency_protocols",
+    "chunk_index": 0
+  },
+  {
+    "id": 7,
+    "chunk": "small - Close all doors and windows - Move to designated assembly area\n3. CODE YELLOW (BOMB THREAT)\n...",
+    "source": "code_procedures.pdf",
+    "category": "emergency_protocols",
+    "chunk_index": 1
+  },
+  {
+    "id": 8,
+    "chunk": "EMPLOYEE CONDUCT AND PROFESSIONALISM POLICY\nEffective Date: January 1, 2024\n1. EXPECTED PROFESSIONAL...",
+    "source": "employee_conduct.pdf",
+    "category": "hr_policies",
+    "chunk_index": 0
+  },
+  {
+    "id": 9,
+    "chunk": "- Provide quality patient care - Complete assigned tasks accurately and timely - Communicate\neffecti...",
+    "source": "employee_conduct.pdf",
+    "category": "hr_policies",
+    "chunk_index": 1
+  },
+  {
+    "id": 10,
+    "chunk": "EMPLOYEE SAFETY AND HEALTH REQUIREMENTS\nEffective Date: January 1, 2024\n1. OCCUPATIONAL HEALTH SCREE...",
+    "source": "safety_requirements.pdf",
+    "category": "hr_policies",
+    "chunk_index": 0
+  },
+  {
+    "id": 11,
+    "chunk": "PAIN MANAGEMENT AND ASSESSMENT PROTOCOL\nEffective Date: January 1, 2024\n1. PAIN ASSESSMENT\nAll patie...",
+    "source": "pain_management.pdf",
+    "category": "patient_care",
+    "chunk_index": 0
+  },
+  {
+    "id": 12,
+    "chunk": "PATIENT RIGHTS AND RESPONSIBILITIES\nEffective Date: January 1, 2024\nPATIENT RIGHTS\nPatients have the...",
+    "source": "patient_rights.pdf",
+    "category": "patient_care",
+    "chunk_index": 0
+  },
+  {
+    "id": 13,
+    "chunk": "Patients have the right to: - Make informed decisions about end-of-life care - Complete advance\ndire...",
+    "source": "patient_rights.pdf",
+    "category": "patient_care",
+    "chunk_index": 1
+  }
+]

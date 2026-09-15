@@ -44,8 +44,8 @@ env/
 *~
 .DS_Store
 
-# Data and models
-data/faiss_index/
+# Data and models (but KEEP faiss_index for deployment)
+# data/faiss_index/  - IMPORTANT: Keep this for Streamlit deployment
 *.pkl
 *.pickle
 models/
