@@ -160,7 +160,7 @@ class LiteRAGAssistant:
                 st.error("Google Generative AI not installed")
                 return False
             genai.configure(api_key=api_key)
-            self.client = genai.GenerativeModel("gemini-3.6-flash")
+            self.client = genai.GenerativeModel("gemini-1.5-flash")
             return True
         except Exception as e:
             logger.error(f"Error setting up Gemini: {e}")
@@ -346,7 +346,7 @@ def main():
     <div class="step-number">3</div>
     <div>
         <div style="font-size: 12px; font-weight: 600; text-transform: uppercase; color: #8b7960;">Generating Answer</div>
-        <div style="font-size: 14px; color: #3d3d3d;">Using Gemini 3.6 Flash API</div>
+        <div style="font-size: 14px; color: #3d3d3d;">Using Gemini 1.5 Flash API</div>
     </div>
 </div>
         """, unsafe_allow_html=True)
@@ -358,8 +358,8 @@ def main():
 
         with col1:
             st.markdown("#### LLM Configuration")
-            st.info("🤖 Using Gemini 3.6 Flash")
-            st.caption("Latest Google Generative AI model for fast, accurate responses")
+            st.info("🤖 Using Gemini 1.5 Flash")
+            st.caption("Free tier Google Generative AI model - stable and reliable")
 
         with col2:
             st.markdown("#### Knowledge Base")
