@@ -10,7 +10,7 @@ from typing import List, Tuple
 import numpy as np
 import faiss
 from PyPDF2 import PdfReader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 import json
 
