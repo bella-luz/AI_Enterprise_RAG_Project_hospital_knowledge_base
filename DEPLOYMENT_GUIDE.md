@@ -30,24 +30,14 @@ Total: 9 sample policies
 
 ## 🚀 Quick Start (5 minutes)
 
-### Step 1: Create GitHub Repository
-```
-1. Go to https://github.com/new
-2. Name: hospital_knowledge_base
-3. Description: "RAG-based hospital knowledge base assistant"
-4. Public visibility
-5. DON'T initialize with README
-6. Click "Create repository"
-```
+### Step 1: Repository Created ✅
 
-### Step 2: Push Code to GitHub
-```bash
-# Navigate to project folder
-cd "C:\Users\dandy\Desktop\Iqra\AI training\Enterprise RAG"
+Your repository is ready:
+**https://github.com/bella-luz/AI_Enterprise_RAG_Project_hospital_knowledge_base**
 
-# Push to GitHub (will ask for authentication)
-git push -u origin main
-```
+### Step 2: Push Code to GitHub ✅ (DONE)
+
+Code has been pushed to your repository with 4 commits.
 
 **Authentication Options:**
 - **GitHub Credential Manager** (easiest - auto-prompts on Windows)
@@ -68,18 +58,18 @@ Choose ONE:
 3. Create new API key
 4. Copy key
 
-### Step 4: Deploy to Streamlit Cloud
+### Step 3: Deploy to Streamlit Cloud
 ```
 1. Go to https://share.streamlit.io
 2. Click "New app"
 3. Connect GitHub (authorize if needed)
-4. Select repository: bella-luz/hospital_knowledge_base
+4. Select repository: bella-luz/AI_Enterprise_RAG_Project_hospital_knowledge_base
 5. Branch: main
 6. Main file path: app.py
 7. Click "Deploy"
 ```
 
-### Step 5: Add API Key to Streamlit Cloud
+### Step 4: Add API Key to Streamlit Cloud
 ```
 1. Wait for app to load (first time takes ~2 minutes)
 2. Click "Manage app" (top right)

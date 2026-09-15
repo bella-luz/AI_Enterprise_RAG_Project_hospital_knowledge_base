@@ -47,7 +47,7 @@ git push -u origin main
 1. https://share.streamlit.io
 2. "New app"
 3. Connect GitHub
-4. Select: bella-luz/hospital_knowledge_base
+4. Select: bella-luz/AI_Enterprise_RAG_Project_hospital_knowledge_base
 5. Main file: app.py
 6. Deploy
 ```
