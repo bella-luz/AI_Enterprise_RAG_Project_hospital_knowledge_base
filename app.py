@@ -105,9 +105,9 @@ class RAGAssistant:
                     st.error("Google Generative AI library not installed. Install with: pip install google-generativeai")
                     return False
                 genai.configure(api_key=api_key)
-                self.client = genai.GenerativeModel("gemini-pro")
+                self.client = genai.GenerativeModel("gemini-1.5-flash")
                 self.llm_provider = "gemini"
-                logger.info("Gemini client initialized")
+                logger.info("Gemini client initialized with gemini-1.5-flash")
                 return True
         except Exception as e:
             logger.error(f"Error setting up LLM: {e}")
