@@ -221,11 +221,7 @@ Answer:"""
 
 def main():
     # Header
-    col1, col2 = st.columns([1, 5])
-    with col1:
-        st.image("🏥", width=40)
-    with col2:
-        st.title("Hospital Knowledge Base")
+    st.markdown("# 🏥 Hospital Knowledge Base")
 
     # Get API key from secrets
     api_key = st.secrets.get("GEMINI_API_KEY", "")
